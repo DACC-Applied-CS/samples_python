@@ -1,0 +1,31 @@
+Division,Team,W,L,PCT,RS,RA
+AL East,NY Yankees,99,63,0.611,807,567
+AL East,Toronto,92,70,0.568,775,679
+AL East,Tampa Bay,86,76,0.531,666,614
+AL East,Baltimore,83,79,0.512,674,688
+AL East,Boston,78,84,0.481,735,787
+AL Central,Cleveland,92,70,0.568,698,634
+AL Central,Chi White Sox,81,81,0.5,686,717
+AL Central,Minnesota,78,84,0.481,696,684
+AL Central,Detroit,66,96,0.407,557,713
+AL Central,Kansas City,65,97,0.401,640,810
+AL West,Houston,106,56,0.654,737,518
+AL West,Seattle,90,72,0.556,690,623
+AL West,LA Angels,73,89,0.451,623,668
+AL West,Texas,68,94,0.42,707,743
+AL West,Oakland,60,102,0.37,568,770
+NL East,Atlanta,101,61,0.623,789,609
+NL East,NY Mets,101,61,0.623,772,606
+NL East,Philadelphia,87,75,0.537,747,685
+NL East,Miami,69,93,0.426,586,676
+NL East,Washington,55,107,0.34,603,855
+NL Central,St. Louis,93,69,0.574,772,637
+NL Central,Milwaukee,86,76,0.531,725,688
+NL Central,Chi Cubs,74,88,0.457,657,731
+NL Central,Cincinnati,62,100,0.383,648,815
+NL Central,Pittsburgh,62,100,0.383,591,817
+NL West,LA Dodgers,111,51,0.685,847,513
+NL West,San Diego,89,73,0.549,705,660
+NL West,San Francisco,81,81,0.5,716,697
+NL West,Arizona,74,88,0.457,702,740
+NL West,Colorado,68,94,0.42,698,873
